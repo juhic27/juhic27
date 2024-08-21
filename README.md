@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Juhi Chaudhary</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center" I'm a passionate software developer with a keen interest in Java, Selenium WebDriver, and API testing. I love working on automation frameworks and learning new technologies. 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhic27&label=Profile%20views&color=0e75b6&style=flat" alt="juhic27" /> </p>
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently working on automation projects.
 
-- 💬 Ask me about **Python, Java, C Language, HTML, CSS**
+- 💬 Ask me about Ask me about Java, testing, and automation.
 
 - 📫 How to reach me **juhi123gkp@gmail.com**
 
