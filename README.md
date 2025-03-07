@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **juhi123gkp@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Working in Wipro)
+- 📄 Know about my experiences Project Engineer(Working in Wipro)
 
 - ⚡ Fun fact **I think , I am very funny**
 
