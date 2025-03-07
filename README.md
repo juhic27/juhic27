@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently working on automation projects.
 
-- 💬 Ask me about Ask me about Java, testing, and automation.
+- 💬 Ask me about Ask me about Java,Spring Boot,API Testing, Selenium,Jenkins, GitHub, GitHub Copilot.
 
 - 📫 How to reach me **juhi123gkp@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences [Fresher](Working in Wipro)
 
 - ⚡ Fun fact **I think , I am very funny**
 
